@@ -1,0 +1,6 @@
+/* Estilos para centrar la imagen cargada */
+#uploaded-image {
+    display: block; /* Muestra la imagen como un bloque */
+    margin-left: auto; /* Centra la imagen horizontalmente */
+    margin-right: auto; /* Centra la imagen horizontalmente */
+}
